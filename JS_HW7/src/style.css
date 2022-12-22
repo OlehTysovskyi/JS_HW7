@@ -1,0 +1,25 @@
+body{
+	background-color: #FFFFE0; 	
+}
+hr{
+	height: 1px;
+	background-color: black; 	
+}
+li{
+	font-size: 20px;
+}
+.ul_fill_but{
+	width: 110px;
+	height: 40px;
+	background-color: khaki;
+	border: 1px solid black;
+	border-radius: 5px;
+	font-size: 14px;
+}
+.ul_fill_but:hover{
+	background-color: darkkhaki;
+}
+
+.external-red { 
+	color: red;
+} 
